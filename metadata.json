@@ -1,0 +1,6 @@
+{
+  "name": "Kariyer & Mülakat Ajanı (Interview & Career Agent)",
+  "description": "Mülakat katılımcı unvanına göre özel soru ve yanıt stratejileri üreten, tamamlanan eğitim içeriklerini analiz ederek bir sonraki kariyer ve eğitim adımlarını çıkaran yapay zeka ajanı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
